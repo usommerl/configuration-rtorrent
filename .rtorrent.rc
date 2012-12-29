@@ -1,0 +1,4 @@
+directory        = ~/downloads
+session          = ~/.rtorrent/
+use_udp_trackers = yes
+dht              = auto
